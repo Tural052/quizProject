@@ -1,0 +1,98 @@
+{
+    "users": [
+        {
+            "ID": 1,
+            "Name": "John",
+            "Surname": "Doe",
+            "Email": "yusif@gmail.com",
+            "EegDate": "2019-01-01T00:00:00",
+            "HasTested": true
+        },
+        {
+            "ID": 2,
+            "Name": "Jane",
+            "Surname": "Doe",
+            "Email": "resad@gmail.com",
+            "EegDate": "2019-01-01T00:00:00",
+            "HasTested": false
+        },
+        {
+            "ID": 3,
+            "Name": "John",
+            "Surname": "Doe",
+            "Email": "pet@gmail.com",
+            "EegDate": "2019-01-01T00:00:00",
+            "HasTested": true
+        },
+        {
+            "ID": 4,
+            "Name": "John",
+            "Surname": "Doe",
+            "Email": "eli@gmail.com",
+            "EegDate": "2019-01-01T00:00:00",
+            "HasTested": false
+        }
+    ],
+    "questions": [
+        {
+            "ID": 1,
+            "CategoryId": 2,
+            "QuestionTitle": "What does HTML stand for?",
+            "QuestionDiffucilty": 1,
+            "AnswerA": " Hyper Text Markup Language",
+            "AnswerB": " Hyper Text Markup Language",
+            "AnswerC": " Hyper Text Markup Language",
+            "AnswerD": " Hyper Text Markup Language",
+            "AnswerE": " Hyper Text Markup Language",
+            "CorrectAnswer": "A"
+        },
+        {
+            "ID": 2,
+            "CategoryId": 2,
+            "QuestionTitle": "What does HTML stand for?",
+            "QuestionDiffucilty": 1,
+            "AnswerA": " Hyper Text Markup Language",
+            "AnswerB": " Hyper Text Markup Language",
+            "AnswerC": " Hyper Text Markup Language",
+            "AnswerD": " Hyper Text Markup Language",
+            "AnswerE": " Hyper Text Markup Language",
+            "CorrectAnswer": "A"
+        },
+        {
+            "ID": 3,
+            "CategoryId": 2,
+            "QuestionTitle": "What does HTML stand for?",
+            "QuestionDiffucilty": 1,
+            "AnswerA": " Hyper Text Markup Language",
+            "AnswerB": " Hyper Text Markup Language",
+            "AnswerC": " Hyper Text Markup Language",
+            "AnswerD": " Hyper Text Markup Language",
+            "AnswerE": " Hyper Text Markup Language",
+            "CorrectAnswer": "A"
+        },
+        {
+            "ID": 4,
+            "CategoryId": 2,
+            "QuestionTitle": "What does HTML stand for?",
+            "QuestionDiffucilty": 1,
+            "AnswerA": " Hyper Text Markup Language",
+            "AnswerB": " Hyper Text Markup Language",
+            "AnswerC": " Hyper Text Markup Language",
+            "AnswerD": " Hyper Text Markup Language",
+            "AnswerE": " Hyper Text Markup Language",
+            "CorrectAnswer": "A"
+        },
+        {
+            "ID": 5,
+            "CategoryId": 2,
+            "QuestionTitle": "What does HTML stand for?",
+            "QuestionDiffucilty": 1,
+            "AnswerA": " Hyper Text Markup Language",
+            "AnswerB": " Hyper Text Markup Language",
+            "AnswerC": " Hyper Text Markup Language",
+            "AnswerD": " Hyper Text Markup Language",
+            "AnswerE": " Hyper Text Markup Language",
+            "CorrectAnswer": "A"
+        }
+    ]
+}
